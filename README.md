@@ -4,7 +4,7 @@
 
 1)Copy the "Final" folder to to c:/xampp/htdocs .
 
-2)Export quries in to phpmyadmin to create databases.(there two databases quries attached with this CD).
+2)Export quries in to phpmyadmin to create databases.(there two databases quries attached with this).
 
 create a database as "nsbm" and import the "nsbm.sql" file to that.
 create a database as "lectures" and import the "lectures.sql" file to that.
