@@ -1,5 +1,4 @@
-# LMS
-----How to Use this LMS----
+#How_to_Use_this_LMS
 
 
 1)Copy the "Final" folder to to c:/xampp/htdocs .
