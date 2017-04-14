@@ -1,7 +1,7 @@
 #How_to_Use_this_LMS
 
 
-1)Copy the "Final" folder to to c:/xampp/htdocs .
+1)If you are using xampp as the virtual server, Copy the "Final" folder to to c:/xampp/htdocs .
 
 2)Export quries in to phpmyadmin to create databases.(there two databases quries attached with this).
 
